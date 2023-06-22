@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+    
+}
+
+#header{
+    height: 350px;
+    color: #ffffff;
+    background-color: #303030;
+}
+#headerText{
+    padding-top: 120px;
+    margin-left: 50px;
+}
+#informations{
+    display: grid;
+    grid-auto-flow: column;
+    background-color: #f9f9f9;
+    padding: 60px;
+    margin-right: 0px;
+    
+}
+#history{
+    background-color:#ffffff;
+    display: grid;
+    grid-auto-flow: column;
+}
+#historyText{
+    margin: 230px 70px 150px 70px;
+    text-align: justify;
+    color: #000000;
+    font-size: 20px;
+    padding-left: 250px;
+}
+
+img{
+    margin-top:  60px;
+    margin-bottom: 70px;
+    margin-right: -300px;
+}
+#form{
+    background-color: #303030;
+    color: #f9f9f9;
+    padding: 150px;
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    background-color: #EAECE5;
+    border: 0px;
+    margin:15px;
+    padding-left: 10px;
+    text-align: center;
+}
+.number{
+    font-size: 40px;
+    
+}
+
+button{
+    background-color: #C07212;
+    color: aliceblue;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #4d3e12;
+    transition-duration: 0.5s;
+    border-radius: 5px;
+    padding: 6px;
+}
+button:hover{
+    background-color: #C07212;
+    color: aliceblue;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #837234;
+    transition-duration: 0.5s;
+}
+p{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 60px;
+}
+h3{
+    margin-left: 200px;
+    margin-right: 200px;
+}
