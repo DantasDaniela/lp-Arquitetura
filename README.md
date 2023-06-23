@@ -1,7 +1,7 @@
 
  Desafio 1 - Desenvolvendo uma Landing Page
 
- Neste projeto a proposta era desenvolver uma Landing Page com a finalidade de captura de leeds para uma empresa do ramo de Arquitetura, utilizando os conhecimentos em HTML, CSS e JavaSript adquiridos até agora, desenvolvendo o Front-end baseado no material fornecido existente no figma e fazendo a integração utilizando a plataforma Sheet Monkey.
+ Neste projeto a proposta era desenvolver uma Landing Page com a finalidade de captação de leeds para uma empresa do ramo de Arquitetura, utilizando os conhecimentos em HTML, CSS e JavaSript adquiridos até agora, desenvolvendo o Front-end baseado no material fornecido existente no figma e fazendo a integração utilizando a plataforma Sheet Monkey.
 
  links utilizados no desenvolvimento do projeto:
 
