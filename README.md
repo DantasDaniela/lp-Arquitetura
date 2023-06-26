@@ -7,10 +7,10 @@
 
 https://www.figma.com/file/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?type=design&node-id=1-3&mode=design&t=QCLFxHIQaOj2yJaY-0
 https://dashboard.sheetmonkey.io/edit/dum6H73NnZaVVniVSxj8b5
-https://www.escoladnc.com.br/wp-content/uploads/2023/05/EMENTA-3.0-Ementa-Formacao-em-Tech-2023_com-tabela-comparativa.pdf
 
-link netlify de hospedagem da landing-Page
+link netlify de hospedagem da landing-Page:
+desafio-1-dnc-lp.netlify.app
 
-https://app.netlify.com/sites/desafio-1-lp-dnc-arquitetura/overview
-
+link sheet-monkey da planilha de registros de informações:
+https://docs.google.com/spreadsheets/d/1gdLKb5bnkjKW-PBUGd3EED5oxfAmqwgQ8k5gq8G_qsg/edit#gid=0
 
